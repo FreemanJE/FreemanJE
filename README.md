@@ -9,6 +9,5 @@
 - 📫 How to reach me: pfreejohnson@gmail.com
 
 ### Languages and Tools:
-![ Boot ](https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png)
-![ ](https://www.w3schools.com/css/)
+
 
