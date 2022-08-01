@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Freeman Johnson
 
-<!--
-**FreemanJE/FreemanJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Passionate Forntend and Backend Web Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on A new Online Shop website
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React,Express, Nodejs and MongoDB
+- 👯 I’m looking to collaborate on Full stack Projects
+- 💬 Ask me about MERN
+- 📫 How to reach me: pfreejohnson@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+![ Boot ](https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png)
+![ ](https://www.w3schools.com/css/)
+
